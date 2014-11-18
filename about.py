@@ -17,9 +17,10 @@ class About(object):
 						  "Pedro Catarino",
 						  "Xide Zhu",
 						  "",
-						  "Feito com Python 2.7 e Pygame"]
+						  "Feito com Python 2.7 e Pygame",
+						  "Packaging com Py2exe"]
 
 		button.Button.group = []
 
-		button.Button("text", self.parent.mediumFont, self.aboutText, (0, 50), self.parent.resolution, None, True, 1000)
-		button.Button("big", self.parent.mediumFont, "Voltar", (0, 610), self.parent.resolution, lambda: self.parent.mainMenu())
+		button.Button("text", self.parent.mediumFont, self.aboutText, (0, 20), self.parent.resolution, None, True, 1000)
+		button.Button("big", self.parent.mediumFont, "Voltar", (0, 615), self.parent.resolution, lambda: self.parent.mainMenu())
