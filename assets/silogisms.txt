@@ -1,0 +1,223 @@
+Todos os orangotangos gostam de bananas.
+Todos os orangotangos são macacos.
+Todos os macacos gostam de bananas.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Não Passa – Falácia da ilícita menor
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Nenhum ser loiro é vampiro.
+Nenhum ser com dentes pequenos é loiro.
+Nenhum ser com dentes pequenos é vampiro.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Não Passa – Falácia das premissas exclusivas
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Todos os doutores são alunos com média de 20.
+Alguns enfermeiros são alunos com média de 20.
+Alguns enfermeiros são doutores.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Não Passa – Falácia do termo médio não-distribuído
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Todos os membros da família Brandão são destros.
+O Guilherme é membro da família Brandão.
+O Guilherme é destro.
+
+Válido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Todos os ratos são animais.
+Alguns periféricos de computador são ratos.
+Alguns periféricos de computador são animais.
+
+Inválido 
+Tem 3 Termos - Não Passa – Falácia dos 4 termos
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Alguns apreciadores de hambúrgueres são Americanos.
+Nenhum Americano é extraterrestre.
+Nenhum extraterrestre é apreciador de hambúrgueres.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Não Passa – Falácia da ilícita menor
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Não Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Todo o gato é apreciador de peixe.
+Nenhum mosquito é apreciador de peixe.
+Nenhum mosquito é gato.
+
+Válido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Alguns Ucranianos não são faladores da língua Russa.
+Alguns faladores da língua Russa são habitantes da Rússia.
+Alguns habitantes da Rússia são Ucranianos.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Não Passa
+Conclusão segue a parte fraca - Não Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Todos os papo-secos são deliciosos.
+Todos os pães são deliciosos.
+Alguns pães são papo-secos.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Não Passa – Falácia do termo médio não-distribuído
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Alguns camiões não são grandes.
+Nenhum carro é camião.
+Todos os carros são grandes.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Não Passa – Falácia das premissas exclusivas
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Não Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Algumas bebidas não são Coca Colas.
+Todas as Fantas são bebidas.
+Algumas Fantas não são Coca Colas.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Não Passa – Falácia do termo médio não-distribuído
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Alguns pães são comidas feitas com ovos.
+Todos as comidas feitas com ovos são ricas em proteínas.
+Algumas comidas ricas em proteínas são pães.
+
+Válido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Todas as jiboias são cobras.
+Todas as cobras são animais.
+Alguns animais não são jibóias.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Não Passa 
+
+Todos os políticos são mentirosos.
+Nenhum mentiroso é pessoa que diz a verdade.
+Nenhuma pessoa que diz a verdade é um político.
+
+Válido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Alguns pacotes de batatas são feitos de queijo.
+Alguns produtos feitos de queijo não são amanteigados.
+Alguns amanteigados não são pacotes de batatas.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Não Passa – Falácia do termo médio não-distribuído
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Passa
+Não contém 2 premissas particulares - Não Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
+
+Nenhum objeto preto é branco.
+Nenhum comando de televisão é preto.
+Nenhum comando de televisão é branco.
+
+Inválido 
+Tem 3 Termos - Passa
+Termo médio não consta na conclusão - Passa
+Termo médio distribuído em pelo menos uma premissa - Passa
+Termo distribuído em conclusão, distribuído na premissa onde ocorre - Passa
+Não contém 2 premissas negativas - Não Passa – Falácia das premissas exclusivas
+Não contém 2 premissas particulares - Passa
+Conclusão segue a parte fraca - Passa
+Caso a conclusão seja negativa, deve conter uma premissa negativa - Passa 
